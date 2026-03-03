@@ -1,2 +1,4 @@
 pydantic
 pydantic[email]
+fastapi
+uvicorn
