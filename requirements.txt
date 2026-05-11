@@ -2,3 +2,6 @@ pydantic
 pydantic[email]
 fastapi
 uvicorn
+openai
+chromadb
+dotenv
